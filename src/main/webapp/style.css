@@ -4,38 +4,35 @@
 	color:black;
 	font-family:'Lucida Sans';
 	text-align: center;
-	
 }
 
 body {
-    position: relative;
-    margin: 0; 
-  	padding: 0;
+	position: relative;
+	margin: 0; 
+	padding: 0;
 }
 
 body::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-image: url('better.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    opacity: 0.4;
-    z-index: -1;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-image: url('bgd.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	z-index: -1;
+	opacity: 0.4;
+}
+
+.submitBox{
+	color:rgb(64, 128, 128); 
+	font-family: 'Lucida Sans';
 }
 
 .text1, .text2{
 	color:black;
 	font-family:'Lucida Sans';
-}
-
-
-.submitBox{
-	color:rgb(64, 128, 128); 
-	font-family: 'Lucida Sans';
-	
 }
