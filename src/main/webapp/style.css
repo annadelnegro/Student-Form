@@ -32,7 +32,12 @@ body::before {
 	font-family: 'Lucida Sans';
 }
 
-.text1, .text2{
+.text1{
+	color:black;
+	font-family:'Lucida Sans';
+} 
+
+.text2{
 	color:black;
 	font-family:'Lucida Sans';
 }
