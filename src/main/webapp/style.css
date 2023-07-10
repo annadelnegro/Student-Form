@@ -19,12 +19,11 @@ body::before {
 	left: 0;
 	width: 100vw;
 	height: 100vh;
-	background-image: url('bgd.jpg');
+	background-image: url('cool-background.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	z-index: -1;
-	opacity: 0.4;
 }
 
 .submitBox{
