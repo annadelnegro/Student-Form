@@ -64,3 +64,8 @@ body {
 	display: flex;
 	align-items: center;
 }
+
+.nameInput input {
+  width: 200px; 
+  height: 40px; 
+}
