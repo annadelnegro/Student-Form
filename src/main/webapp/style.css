@@ -41,6 +41,10 @@ body {
     width: fit-content;
 } 
 
+.text2{
+	flex-grow: 1;
+}
+
 .submitBox input[type="submit"]{ 
 	font-family: 'Monoton', cursive;
 	color:rgb(128, 0, 128);
@@ -52,4 +56,9 @@ body {
 .submitBox {
     text-align: center;
     margin-top: 10%;
+}
+
+.nameInput{
+	display: flex;
+	align-items: center;
 }
