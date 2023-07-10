@@ -49,8 +49,10 @@ body {
 	font-family: 'Monoton', cursive;
 	color:rgb(128, 0, 128);
 	font-size: 16px;
-	padding: 5px;
 	text-align: center;
+	border-radius: 5px;
+	padding: 5px;
+	border-color: white;
 }
 
 .submitBox {
