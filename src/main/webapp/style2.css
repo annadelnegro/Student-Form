@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url('cool-background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    z-index: -1;
+}
+
+.lastUpdated, .studentConfirmed{
+	font-size: 150%;
+	color: black;
+	text-align: center;
+	font-family: 'Train One', cursive;
+
+}
+
+.lastUpdated{
+	font-style:italic;
+}
+
+.studentConfirmed{
+	font-size: 200%;
+}
