@@ -5,7 +5,6 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    min-height: 100vh;
     background-image: url('cool-background.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
